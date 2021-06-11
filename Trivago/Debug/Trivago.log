@@ -1,0 +1,16 @@
+﻿  display.cpp
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(217,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(729,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1031,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1050,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1047,7): warning C4101: 't': unreferenced local variable
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1176,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1206,4): warning C4551: function call missing argument list
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1221,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1233,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1252,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1272,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1273,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1294,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\display.cpp(1295,21): warning C4018: '<': signed/unsigned mismatch
+  Trivago.vcxproj -> C:\Users\elhas\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Trivago\Debug\Trivago.exe
